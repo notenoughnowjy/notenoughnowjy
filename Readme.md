@@ -6,6 +6,9 @@ Hello my name is JunYoung Park. I am studying in the Department of Computer Engi
 </a>
 
 ⚡Studying
+
+
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
