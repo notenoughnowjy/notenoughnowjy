@@ -4,6 +4,8 @@ Hello my name is JunYoung Park. I am studying in the Department of Computer Engi
 
 <a href="https://instagram.com/morednaerom?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instargram&logoColor=white"/>
 </a>
+
+⚡Studying
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
