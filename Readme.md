@@ -2,7 +2,7 @@
 
 Hello my name is JunYoung Park. I am studying in the Department of Computer Engineering at Andong University. I am studying to be a good front-end, and I am still trying to do it consistently even though I am not good enough.
 
-<a href="https://instagram.com/morednaerom?igshid=YmMyMTA2M2Y=" target="_blank"><img src=<img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instargram&logoColor=white"/>
+<a href="https://instagram.com/morednaerom?igshid=YmMyMTA2M2Y=" target="_blank"><img src=<img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=Instargram&logoColor=white"/>
 
 <!--
 **PARKJUNYOUNGKR/PARKJUNYOUNGKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
