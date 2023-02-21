@@ -1,4 +1,8 @@
-### Hello, I'm Joon Young Park 👋
+# Welcome to PARKJUNYOUNGKR Github 👋
+
+Hello my name is JunYoung Park. I am studying in the Department of Computer Engineering at Andong University. I am studying to be a good front-end, and I am still trying to do it consistently even though I am not good enough.
+
+<a href="https://instagram.com/morednaerom?igshid=YmMyMTA2M2Y=" target="_blank"><img src="http://img.shields.io/badge/
 
 <!--
 **PARKJUNYOUNGKR/PARKJUNYOUNGKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
