@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, My name is Joon Young Park 👋
 
 <!--
 **PARKJUNYOUNGKR/PARKJUNYOUNGKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
