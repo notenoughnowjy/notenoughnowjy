@@ -25,7 +25,7 @@
   <br>
   <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKJUNYOUNGKR&show_icons=true&bg_color=FFFFFF)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowenoughnowjy&show_icons=true&bg_color=FFFFFF)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -34,7 +34,7 @@
 
 
 <!--
-**PARKJUNYOUNGKR/PARKJUNYOUNGKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**notenoughnowjy/notenoughnowjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
