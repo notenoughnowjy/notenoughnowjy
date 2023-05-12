@@ -10,7 +10,7 @@
   :iphone: contact me
   <br>
 
-  <a href="https://www.instagram.com/morednaerom/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/morednaerom"/></a> 
+  <a href="https://www.instagram.com/notenoughnowjy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/notenoughnowjy"/></a> 
   <a href="https://discord.gg/XuuW49sbc6"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/XuuW49sbc6"/>
   
   <br>
