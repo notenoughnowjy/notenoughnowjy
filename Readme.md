@@ -36,8 +36,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notenoughnowjy&show_icons=true&bg_color=FFFFFF)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![코드트리|실력진단-zjadudn88](https://banner.codetree.ai/v1/banner/zjadudn88)](https://www.codetree.ai/profiles/zjadudn88)
   
   
 </div>
