@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=🌱Welcome🌱&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-  Hello my name is JunYoung Park. I am studying in the Department of Computer Engineering at Andong University in Korea. I am studying to be a good Application developer and I am still trying to do it consistently even though I am not good enough.
+삶에 가치를 더하는 개발자 박준영입니다. 현재 Flutter & React 기술을 활용한 프론트엔드 개발자로 활동하고 있습니다.
 
 
 
